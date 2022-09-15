@@ -1,0 +1,40 @@
+{
+  "name": "rivendell",
+  "displayName": "Rivendell",
+  "description": "A light theme based on the Elves of Rivendell.",
+  "version": "0.0.1",
+  "publisher": "sortbyfirstname",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "rivendell",
+    "elves",
+    "lotr",
+    "lord",
+    "rings",
+    "light"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rivendell",
+        "uiTheme": "vs",
+        "path": "./themes/rivendell-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/sortbyfirstname/rivendell-vscode-theme",
+    "type": "git"
+  },
+  "scripts": {
+    "package": "vsce package"
+  }
+}
