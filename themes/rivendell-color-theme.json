@@ -1964,13 +1964,13 @@
 	  "diffEditor.insertedTextBackground": "#9bb95533",
 	  "diffEditor.removedTextBackground": "#ff000033",
 	  "diffEditor.border": "#d4a373",
-	  "panel.background": "#e9edc9",
-	  "panel.border": "#ffffff50",
+	  "panel.background": "#fefae0",
+	  "panel.border": "#ccd5ae",
 	  "panelTitle.activeBorder": "#d4a373",
 	  "panelTitle.activeForeground": "#616161",
 	  "panelTitle.inactiveForeground": "#767676",
-	  "badge.background": "#fefae0",
-	  "badge.foreground": "#767676",
+	  "badge.background": "#d4a373",
+	  "badge.foreground": "#fefae0",
 	  "terminal.foreground": "#616161",
 	  "terminal.selectionBackground": "#00000040",
 	  "terminalCursor.background": "#d4a373",
@@ -2092,6 +2092,7 @@
 	  "breadcrumb.activeSelectionForeground": "#616161",
 	  "editorGutter.commentRangeForeground": "#424242",
 	  "debugExceptionWidget.background": "#fefae0",
-	  "debugExceptionWidget.border": "#ccd5ae"
+	  "debugExceptionWidget.border": "#ccd5ae",
+	  "debugConsole.infoForeground": "#616161"
 	}
   }
